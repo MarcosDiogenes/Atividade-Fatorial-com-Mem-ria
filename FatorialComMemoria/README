@@ -1,0 +1,11 @@
+01. Desenvolva uma aplicação que deve estar empacotada em um arquivo jar que ao ser invocado deve ser passado um valor
+inteiro como argumento, calcular o fatorial do número passado e apresente o resultado na tela. (1 pt)
+
+Exemplo:
+   $ java -jar app.jar 5
+   120
+
+   $ java -jar app.jar 8
+   40320
+
+   O arquivo ".jar" se encontra no diretório out/artifacts/FatorialComMemoria_jar/FatorialComMemoria.jar
